@@ -1,0 +1,129 @@
+@-moz-document domain("getpocket.com") {
+
+    /* global */
+    body {
+        background: #000000 !important;
+        color: #808080;
+    }
+
+    .overflow-nav {
+        background: #000000;
+    }
+    .overflow-nav .full-nav {
+        border: 1px solid #808080;
+    }
+
+
+    /* options */
+    .header-global,
+    .footer-global {
+        background: #000000;
+    }
+
+    .header-global li:first-child a, 
+    .header-global nav a {
+        border-top-color: #808080;
+    }
+
+    .legacy-container {
+        background: #000000;
+    }
+
+    .legacy-sidebar h5, 
+    .legacy-sidebar h5 > a {
+        color: #808080;
+    }
+
+    .legacy-content {
+        background: #000000;
+    }
+    .legacy-content h2 {
+        color: #ffffff;
+    }
+    .legacy-content input {
+        background: #000000;
+        color: #dddddd;
+    }
+
+    .page-premiumsettings .features-list li,
+    .page-account .options_list li {
+        background: #000000;
+    }
+
+    .legacy-content .msg {
+        background: #000000;
+    }
+
+
+    /* pocket hits */
+    .pocket-hits #container {
+        background: #000000;
+    }
+
+    .post_title a {
+        color: #808080;
+    }
+
+
+    /* explore */
+    .portal-header {
+        background: #000000 !important;
+    }
+    .portal-nav {
+        background: #000000 !important;
+    }
+
+    .explore_search input {
+        background: #000000;
+        color: #dddddd;
+    }
+
+    .trending_list, 
+    .best_of_list, 
+    .topic-heading {
+        background: #000000;
+    }
+
+    .title a, 
+    .title_sponsor a {
+        color: #808080;
+    }
+
+    .portal_list .item {
+        background: #000000;
+    }
+    .portal_list .item article .item_content {
+        min-height: 364px;
+    }
+    .item_image {
+        border-bottom: none;
+    }
+    .item_article {
+        border: 1px solid #808080;
+    }
+
+
+    /* list */
+    .side-nav {
+        background: #000000 !important;
+    }
+
+    .popover-new {
+        background: #000000 !important;
+    }
+
+    .item_content {
+        background: #000000 !important;
+    }
+
+    .page_queue_grid .item .sub {
+        background: #000000 !important;
+    }
+
+
+    /* articles */
+    #page .pkt-nav {
+        background: #000000 !important;
+    }
+
+}
