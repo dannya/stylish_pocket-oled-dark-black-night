@@ -1,2 +1,2 @@
-# stylish_pocket-oled-dark-black-night
-Pocket (OLED Dark Black Night)
+# Pocket (OLED Dark Black Night)
+Dark Black Night theme for Pocket (especially suitable for OLED displays).
