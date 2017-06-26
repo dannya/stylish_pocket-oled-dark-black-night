@@ -3,7 +3,7 @@
     /*
      * Name:    Pocket (OLED Dark Black Night)
      * Author:  Danny Allen (dannya.com)
-     * Version: v1.0.0
+     * Version: v1.0.1
      */
 
     /* global */
@@ -29,6 +29,9 @@
         background: #222222;
     }
 
+    .nav-bottom {
+        bottom: 64px;
+    }
 
 
     /* home */
@@ -317,4 +320,8 @@
         background: #000000 !important;
     }
 
+    .reader_explore_bar {
+    	background: #000000;
+        z-index: 10000;
+    }
 }
