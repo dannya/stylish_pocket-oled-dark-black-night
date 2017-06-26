@@ -28,6 +28,12 @@
     .header-global nav .btn:hover {
         background: #222222;
     }
+    
+    .notifications-error, 
+    .notifications-sync {
+        background: #000000;
+        color: #ffffff;
+    }
 
     .nav-bottom {
         bottom: 64px;
